@@ -118,8 +118,7 @@ mern-template/
 
 1. Create any necessary models in `/server/models/`
 2. Define routes in `/server/routes/`
-3. Create React components in `/client/src/components/`
-4. Update routing in `/client/src/App.jsx`
+3. Update routing in `/client/src/App.jsx`
 
 ### Building for Production
 
