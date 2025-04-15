@@ -82,16 +82,16 @@ mern-template/
    npm install
    ```
 
-3. Install client dependencies
-   ```bash
-   cd ../client
-   npm install
-   ```
-
-4. Set up environment variables
+3. Set up environment variables
    ```bash
    cp .env.example .env
    # Edit .env with your configuration
+   ```
+
+4. Install client dependencies
+   ```bash
+   cd ../client
+   npm install
    ```
 
 ### Running the Application
