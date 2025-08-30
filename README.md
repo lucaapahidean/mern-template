@@ -72,7 +72,7 @@ mern-template/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/apaluca/mern-template.git
+   git clone https://github.com/lucaapahidean/mern-template.git
    cd mern-template
    ```
 
@@ -110,7 +110,7 @@ mern-template/
 
 3. Access the application
    - Frontend: http://localhost:3000
-   - Backend API: http://localhost:8000/api
+   - Backend API: http://localhost:8000/api/test
 
 ## Development
 
